@@ -1,8 +1,20 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Inter', Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 20px;
     max-width: 800px;
     margin: auto;
+    color: #333;
+}
+
+h1 {
+    color: #2563eb;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+p {
+    text-align: center;
+    color: #6b7280;
 }
